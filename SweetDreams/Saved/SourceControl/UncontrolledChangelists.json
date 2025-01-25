@@ -5,7 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/eSport/GameJamA/SweetDreams/Content/StarterContent/Architecture/Floor_400x400.uasset"
+				"C:/Users/eSport/GameJamA/SweetDreams/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/eSport/Downloads/GameJamA/SweetDreams/Content/ThirdPerson/Blueprints/projectile.uasset",
+				"C:/Users/eSport/Downloads/GameJamA/SweetDreams/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/eSport/Downloads/GameJamA/SweetDreams/Content/Characters/Mannequins/Meshes/SK_Mannequin.uasset",
+				"C:/Users/eSport/Downloads/GameJamA/SweetDreams/Content/Characters/Mannequins/Meshes/SKM_Quinn_Simple.uasset"
 			]
 		}
 	]
